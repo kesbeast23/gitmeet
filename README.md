@@ -43,7 +43,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
    
-<td align="center"><a href="https://github.com/Kesego23"><img src="https://avatars3.githubusercontent.com/u/38880602?v=4" width="100px;" alt="kesbeast23"/><br /><sub><b>Kesego</b></sub></a><br /><a href="#eventOrganizing-kesbeast23" title="Event Organizing">📋</a> <a href="#example-kesbeast23" title="Documentation">📖</a> <a href="#example-kesbeast23" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/kesbeast23"><img src="https://avatars3.githubusercontent.com/u/38880602?v=4" width="100px;" alt="kesbeast23"/><br /><sub><b>Kesego</b></sub></a><br /><a href="#eventOrganizing-kesbeast23" title="Event Organizing">📋</a> <a href="#example-kesbeast23" title="Documentation">📖</a> <a href="#example-kesbeast23" title="Code">💻</a></td>
 <td align="center"><a href="https://github.com/Tumo505"><img src="https://avatars3.githubusercontent.com/u/43002871?s=400&v=4" width="100px;" alt="Tumo505"/><br /><sub><b>Tumo</b></sub></a><br /><a href="#eventOrganizing-Tumo505" title="Project Setup">📋</a> <a href="#example-Tumo505" title="Code">💻</a></td>
   </tr>
 </table>
