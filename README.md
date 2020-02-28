@@ -10,7 +10,7 @@
 2. Clone your fork down to your local machine
 `git clone https://github.com/YOUR-NAME/gitmeet.git`
 get into the directory
-`cd gitmeet
+`cd gitmeet`
 3. Create a branch
 `git checkout -b branch-name`
 preferrably `feature-you-are-working-on`
